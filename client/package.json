@@ -19,6 +19,10 @@
     "@angular/platform-browser": "~11.1.2",
     "@angular/platform-browser-dynamic": "~11.1.2",
     "@angular/router": "~11.1.2",
+    "@auth0/angular-jwt": "^5.0.2",
+    "angular-jwt": "^0.1.11",
+    "angular2-flash-messages": "^3.0.1",
+    "angular2-jwt": "^0.2.3",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
@@ -27,6 +31,7 @@
     "@angular-devkit/build-angular": "~0.1101.4",
     "@angular/cli": "~11.1.4",
     "@angular/compiler-cli": "~11.1.2",
+    "@types/angular-jwt": "0.0.29",
     "@types/jasmine": "~3.6.0",
     "@types/node": "^12.11.1",
     "codelyzer": "^6.0.0",
